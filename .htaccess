@@ -1,0 +1,2 @@
+AddHandler myphp-script .php .fphp
+Action myphp-script "/php.fcgi"

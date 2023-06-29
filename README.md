@@ -1,4 +1,7 @@
 # Switch PHP ver of Xserver by directory
+XserverでディレクトリごとにPHPバージョンを変える方法です。  
+このリポジトリのファイルをサーバにアップロードすることで確認できるかと思います。  
+ドキュメントルートの`index.php`では5.6、`php74/index.php`だと7.4になると思います。
 
 ## 手順
 おおまかな手順は以下の4つです。
